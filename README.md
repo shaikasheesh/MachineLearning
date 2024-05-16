@@ -10,6 +10,7 @@ In this folder I have created Model End points using Flask API
 # Time Series
 In this folder there are examples related to Time series forcasting of Tesla stocks with the help of ARIMA and SARIMAX 
 
-#Black
+# BlackFriday EDA & Feature Engineering
+This file contains examples of how to perform EDA and do Feature Engineering
 
 
