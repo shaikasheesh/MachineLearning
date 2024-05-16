@@ -1,5 +1,5 @@
 # Black Friday 
-This Folder contains examples of how to perform EDA and do Feature Engineering on Black Friday Dataset and I have also Build a model using Randorm Forest Algorithm
+This Folder contains examples of how to perform EDA and do Feature Engineering & Built a model using Randorm Forest Algorithm to predict the Purchase variable in Test Data set
 
 # KAGGLE TITANIC
 In this Folder you will find the submissions done in KAGGLE competition for the TITANIC dataset wrt prediction of survivors
